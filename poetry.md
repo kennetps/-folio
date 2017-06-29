@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+title: Mas de mi
+description: Otros detalles interesantes respecto a mi!
 ---
 
 <ul class="post-list">
