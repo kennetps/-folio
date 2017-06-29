@@ -1,25 +1,40 @@
 ---
 layout: post
-title: The Emperor of Ice Cream
-date: 2015-07-06 07:59:00
+title: Hablando profesionalmente
 ---
 
-Call the roller of big cigars,    
-The muscular one, and bid him whip    
-In kitchen cups concupiscent curds.    
-Let the wenches dawdle in such dress    
-As they are used to wear, and let the boys    
-Bring flowers in last month's newspapers.    
-Let be be finale of seem.    
-The only emperor is the emperor of ice-cream.    
-    
-Take from the dresser of deal.    
-Lacking the three glass knobs, that sheet    
-On which she embroidered fantails once    
-And spread it so as to cover her face.    
-If her horny feet protrude, they come    
-To show how cold she is, and dumb.    
-Let the lamp affix its beam.    
-The only emperor is the emperor of ice-cream.     
+JALASOFT BOLIVIA
+August 2015 – Present  
+Role: Quality Engineer
+Duties: Starting on the Black Box testing Quality assurance role, contributed ensuring the quality of an outsource product on the United States. Due to my knowledge on the Web Security area I was moved to start the security initiative of the main product of this company, given the duty to create plans and perform penetration testing to find gaps and prevent hacking attempts.
 
-### Wallace Stevens
+AIESEC BOLIVIA
+September 2014 – February 2015 
+Role: Cultural Envoy for Exchange Development 
+Duties: Helped the National team to plan strategies and design a path on the organization to follow and complete, managing goals objectives, programs and helping the Bolivia entity to be consider as a full member for that specific year. Also raised funds to keep operations ongoing.
+
+WEB DEVELOPMENT PERSONAL PROJECT
+August 2013 – January 2014
+Role: Programmer
+Duties: Programmed different web sites and helped on the creation of different web sites. Use of languages like Javascript, PHP, HTML5, networking.
+
+WESTERN UNION
+March 2011 – July 2013
+Role: Senior Technical Process Technician
+Duties: monitor and give support to online servers and virtual machines, also basic troubleshooting on issues with databases as SQL, Oracle and AS400, be participant into conferences and bridges to troubleshoot different kind of issues during the process of money transference.
+
+Convergys Corporation
+July 2010 – march 2011
+Role: Floor Support Assistance
+Duties: To provide information and help with advanced knowledge with Internet connections and
+VoIP to Customer Service Agents (high intermediate questions on network connections).
+
+Convergys Corporation
+August 2010
+Role: Team Lead Back up
+Duties: To handle a team of customer service agents and work on their schedules, metrics and 
+performance. Knowledge on advance call center objectives, procedures, policies and goals.
+
+
+### “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” - Nikola Tesla
+
