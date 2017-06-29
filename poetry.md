@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /apoetry/
+permalink: /poetry/
 title: Quien soy?
 description: Otros detalles interesantes respecto a mi!
 ---
@@ -9,7 +9,6 @@ description: Otros detalles interesantes respecto a mi!
 {% for poem in site.poetry reversed %}
     <li>
         <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
-        <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}
 </ul>
