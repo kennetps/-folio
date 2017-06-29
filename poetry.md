@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
-title: Mas de mi
+title: Quien soy?
 description: Otros detalles interesantes respecto a mi!
 ---
 
