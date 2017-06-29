@@ -18,7 +18,7 @@ title: Hablando profesionalmente
 <li>Knowledge on Java applications and programming.</li>
 <li>Programming on SQL, MySQL and other database software.</li>
 </ul>
-
+<Br>
 
 <h3>Experiencia </h3><Br><Br>
 
