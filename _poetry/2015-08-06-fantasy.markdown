@@ -4,6 +4,7 @@ title: Que me gusta?
 date: 2015-08-06 07:59:00
 ---
 <div class="img_row">
+        <img class="col two" src="/-folio/img/KenRuins.jpg">
 	<img class="col one" src="/-folio/img/KenSinging.jpg">
 </div>
 
