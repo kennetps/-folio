@@ -35,6 +35,6 @@ Role: Team Lead Back up
 Duties: To handle a team of customer service agents and work on their schedules, metrics and 
 performance. Knowledge on advance call center objectives, procedures, policies and goals.
 
-
+<blockquote>
 ### “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” - Nikola Tesla
-
+</blockquote>
