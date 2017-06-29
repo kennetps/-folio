@@ -4,7 +4,7 @@ title: Que me gusta?
 date: 2015-08-06 07:59:00
 ---
 <div class="img_row">
-	<img class="col three" src="/-folio/img/KenSinging.jpg">
+	<img class="col one" src="/-folio/img/KenSinging.jpg">
 </div>
 
 Realmente entre mis hobbies favoritos se encuentras los videojuegos, me encanta tener tiempo de poder tomar una tarde y disfrutar de un videojuegos.
