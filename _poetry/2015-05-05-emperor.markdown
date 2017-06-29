@@ -5,7 +5,7 @@ title: Hablando profesionalmente
 
 <div class="img_row">
 <img class="col one" src="/-folio/img/White.jpg">
-<img class="col one" src="/-folio/img/KenSinging.jpg">
+<img class="col one" src="/-folio/img/KenPro.jpg">
 <img class="col one" src="/-folio/img/White.jpg">
 </div>
 
