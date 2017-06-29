@@ -2,7 +2,7 @@
 layout: post
 title: Hablando profesionalmente
 ---
-<h3> Habilidades </h3>
+<h3> Habilidades </h3> <Br><Br>
 
 
 
@@ -20,7 +20,7 @@ title: Hablando profesionalmente
 </ul>
 
 
-<h3>Experiencia </h3>
+<h3>Experiencia </h3><Br><Br>
 
 
 
