@@ -2,10 +2,7 @@
 layout: post
 title: Hablando profesionalmente
 ---
-<h3> Habilidades </h3> <Br><Br>
-
-
-
+<h3> Habilidades </h3> <Br>
 <ul>
 <li>Microsoft Windows 95/98/Me/2000/XP/2003/7/8.</li>
 <li>Microsoft Office 95/97/2000/XP/2003/7/8.</li>
@@ -18,11 +15,8 @@ title: Hablando profesionalmente
 <li>Knowledge on Java applications and programming.</li>
 <li>Programming on SQL, MySQL and other database software.</li>
 </ul>
-<Br>
 
-<h3>Experiencia </h3><Br><Br>
-
-
+<h3>Experiencia </h3><Br>
 
 <h4>JALASOFT BOLIVIA </h4>
 agosto 2015 – Present  
