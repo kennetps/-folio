@@ -4,9 +4,9 @@ title: Hablando profesionalmente
 ---
 
 <div class="img_row">
-<img class="col one" src="">
+<img class="col one" src="/-folio/img/White.jpg">
 <img class="col one" src="/-folio/img/KenSinging.jpg">
-<img class="col one" src="">
+<img class="col one" src="/-folio/img/White.jpg">
 </div>
 
 <h3> Habilidades </h3> <Br>
