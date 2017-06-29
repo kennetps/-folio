@@ -2,6 +2,13 @@
 layout: post
 title: Hablando profesionalmente
 ---
+
+<div class="img_row">
+<img class="col one" src="">
+<img class="col one" src="/-folio/img/KenSinging.jpg">
+<img class="col one" src="">
+</div>
+
 <h3> Habilidades </h3> <Br>
 <ul>
 <li>Microsoft Windows 95/98/Me/2000/XP/2003/7/8.</li>
