@@ -1,4 +1,4 @@
----
+/*---
 layout: page
 permalink: /poetry/
 title: Quien soy?
@@ -12,3 +12,4 @@ description: Otros detalles interesantes respecto a mi!
       </li>
 {% endfor %}
 </ul>
+*/
