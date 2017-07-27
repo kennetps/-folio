@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AcercaDe
-permalink: /XAcercaDe/
+title: XAcercaDe
+permalink: /AcercaDe/
 ---
 
 <img class="col one right" src="/-folio/img/AboutPic.jpg">
