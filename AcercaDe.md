@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacto
-permalink: /about/
+title: AcercaDe
+permalink: /AcercaDe/
 ---
 
 <img class="col one right" src="/-folio/img/AboutPic.jpg">
